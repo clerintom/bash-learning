@@ -1,4 +1,4 @@
-# Bash commands - exammples !
+# Bash commands - examples !
 Repository with example of basic bash command usage
 
 #### create directory
